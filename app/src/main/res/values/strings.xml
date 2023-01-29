@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NEWS APP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NEWS</string>
+    <string name="nav_header_subtitle">malviya.abhi3450@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">BBC News</string>
+    <string name="menu_gallery">CNN News</string>
+    <string name="menu_slideshow">Aljizera News</string>
+    <string name="fox">FOX News</string>
+    <string name="sky">Sky News</string>
+    <string name="upcoming">UPCOMING</string>
+    <string name="new_york_news">NEW YORK NEWS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">FOX News</string>
+    <string name="hello_blank_fragment1">Sky News</string>
+
+</resources>
